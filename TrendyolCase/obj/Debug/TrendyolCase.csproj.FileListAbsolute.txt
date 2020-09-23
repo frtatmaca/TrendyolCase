@@ -1,0 +1,5 @@
+D:\Cases\TrendyolCase\TrendyolCase\bin\Debug\TrendyolCase.exe.config
+D:\Cases\TrendyolCase\TrendyolCase\bin\Debug\TrendyolCase.exe
+D:\Cases\TrendyolCase\TrendyolCase\bin\Debug\TrendyolCase.pdb
+D:\Cases\TrendyolCase\TrendyolCase\obj\Debug\TrendyolCase.exe
+D:\Cases\TrendyolCase\TrendyolCase\obj\Debug\TrendyolCase.pdb
