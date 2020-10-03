@@ -1,4 +1,4 @@
-﻿namespace TrendyolCase.Models
+﻿namespace TrendyolCase.Business.Models
 {
     public class Product
     {

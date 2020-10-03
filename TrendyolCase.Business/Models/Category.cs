@@ -1,4 +1,4 @@
-﻿namespace TrendyolCase.Models
+﻿namespace TrendyolCase.Business.Models
 {
     public class Category
     {
@@ -13,6 +13,11 @@
             CategoryId = 0; //auto-incremenet
             Title = title;
             Campaign = campaign;
+        }
+
+        public decimal CalculateDeliveryCost(decimal deliveryCost, int quantity)
+        {
+            return Campaign.CalculateDeliveryCostForProduct(deliveryCost, quantity);
         }
 
         public int CategoryId { get; set; }

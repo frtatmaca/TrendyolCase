@@ -1,9 +1,9 @@
 D:\Cases\TrendyolCase\TrendyolCaseUnitTest\bin\Debug\TrendyolCaseUnitTest.dll
 D:\Cases\TrendyolCase\TrendyolCaseUnitTest\bin\Debug\TrendyolCaseUnitTest.pdb
 D:\Cases\TrendyolCase\TrendyolCaseUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\Cases\TrendyolCase\TrendyolCaseUnitTest\bin\Debug\TrendyolCase.exe
-D:\Cases\TrendyolCase\TrendyolCaseUnitTest\bin\Debug\TrendyolCase.pdb
 D:\Cases\TrendyolCase\TrendyolCaseUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 D:\Cases\TrendyolCase\TrendyolCaseUnitTest\obj\Debug\TrendyolCaseUnitTest.csprojResolveAssemblyReference.cache
 D:\Cases\TrendyolCase\TrendyolCaseUnitTest\obj\Debug\TrendyolCaseUnitTest.dll
 D:\Cases\TrendyolCase\TrendyolCaseUnitTest\obj\Debug\TrendyolCaseUnitTest.pdb
+D:\Cases\TrendyolCase\TrendyolCaseUnitTest\bin\Debug\TrendyolCase.Business.dll
+D:\Cases\TrendyolCase\TrendyolCaseUnitTest\bin\Debug\TrendyolCase.Business.pdb

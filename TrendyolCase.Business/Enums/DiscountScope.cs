@@ -1,4 +1,4 @@
-﻿namespace TrendyolCase.Enums
+﻿namespace TrendyolCase.Business.Enums
 {
     public enum DiscountScope : ushort
     {

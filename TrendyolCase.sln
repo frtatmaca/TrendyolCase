@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrendyolCase", "TrendyolCas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrendyolCaseUnitTest", "TrendyolCaseUnitTest\TrendyolCaseUnitTest.csproj", "{0CA4E667-559B-4E2E-BA67-824E2D1EE97B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrendyolCase.Business", "TrendyolCase.Business\TrendyolCase.Business.csproj", "{3375F5DC-1CBC-4717-A2B7-4A5F5D91CB69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0CA4E667-559B-4E2E-BA67-824E2D1EE97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CA4E667-559B-4E2E-BA67-824E2D1EE97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CA4E667-559B-4E2E-BA67-824E2D1EE97B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3375F5DC-1CBC-4717-A2B7-4A5F5D91CB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3375F5DC-1CBC-4717-A2B7-4A5F5D91CB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3375F5DC-1CBC-4717-A2B7-4A5F5D91CB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3375F5DC-1CBC-4717-A2B7-4A5F5D91CB69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

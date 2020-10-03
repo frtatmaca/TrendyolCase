@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using TrendyolCase.Models;
-using TrendyolCase.Enums;
+using TrendyolCase.Business.Models;
+using TrendyolCase.Business.Enums;
 
 namespace TrendyolCaseUnitTest
 {
